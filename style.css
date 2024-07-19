@@ -1,0 +1,78 @@
+body {
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #ffffff;
+    background-color: hsla(0, 100%, 100%, 0.5);
+    color: #64645A;
+    padding: inherit;
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+}
+
+p.t0 {
+    background-color: rgb(238, 62, 128);
+}
+
+p.t1 {
+    background-color: rgb(244, 90, 139);
+}
+
+p.t2 {
+    background-color: rgb(243, 106, 152);
+}
+
+p.t3 {
+    background-color: rgb(244, 123, 166);
+}
+
+p.t4 {
+    background-color: rgb(245, 140, 178);
+}
+
+p.t5 {
+    background-color: rgb(246, 159, 192);
+}
+
+p.t6 {
+    background-color: rgb(245, 176, 204);
+}
+
+p.t7 {
+    background-color: rgb(0, 187, 136);
+}
+
+p.t8 {
+    background-color: rgb(140, 202, 242);
+}
+
+p.t9 {
+    background-color: rgb(114, 193, 240);
+}
+
+p.t10{
+    background-color: rgb(84, 182, 237);
+}
+
+p.t11 {
+    background-color: rgb(48, 170, 233);
+}
+
+p.t12 {
+    background-color: rgb(0, 160, 230);
+}
+
+p.t13 {
+    background-color: rgb(0, 149, 226);
+}
+
+p.t14 {
+    background-color: rgb(0, 136, 221);
+}
